@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix = ">")
 async def on_ready():
     print("Bot is ready")
 
-bot.run("ODQ0MjczNTc3MjM4NzI0NjY5.YKQBCg.z_KZtO6qjQHpE1T-TzuXka7z25c")
+bot.run(TOKEN)
