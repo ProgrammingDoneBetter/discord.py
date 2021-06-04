@@ -37,4 +37,4 @@ async def on_message(message):
 
 
 
-bot.run("ODQ5MDEzOTkyODg2MjM5MjM0.YLU_5Q.Ix3Ib3W6SC62pkU1UG1ile-VQT0")
+bot.run("TOKEN HERE")
